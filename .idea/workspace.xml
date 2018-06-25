@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddcf113a-4148-44fa-92e3-5ff21358375a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/cucumber-allure-plugin-examples.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/src/test/java/RunAcceptanceIT.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/src/test/java/steps/CommonStepsDef.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/src/test/resources/allure.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/src/test/resources/scenario_background_tests.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/src/test/resources/scenario_outline_background_tests.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/src/test/resources/scenario_outline_tests.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/src/test/resources/scenario_tests.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-allure-plugin-examples-master/src/test/test.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/Bag.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/Header.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/ItemInBag.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/Login.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/PageProduct.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/SearchResults.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/steps/RunAcceptanceIT.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/util/WebDriverSingletone.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/00d28c6e-1cf2-4d87-9d7f-9305bc9e117c-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/03996e89-29bd-41c7-b71b-7464fc2f34d4-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/04a045be-e84e-40ec-a10d-cde4ce47eb6a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/050f9925-4687-4e20-917a-8a133dd7f3bc-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/06f4dd7d-de26-45e2-8089-300e967962e3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/07c01024-8a7d-48e1-9504-6f861d07ee22-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/0e9f1784-c7ab-4524-aefa-770ca316086d-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/123f642f-d091-4d67-835e-e097838430e8-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/12b7806e-81a7-4524-ac59-f8c7faaeb8d0-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/1767bcfe-3bc7-4675-9ddf-a6309d0da8e1-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/1c8ca782-c2c4-43b3-be65-85e6237282cb-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/1d603ec0-8612-4256-b89f-26a64d76b0e3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/23a0413e-2d9e-47cd-8e57-49d25f7c701a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/2653f734-3704-43d6-9db4-07c18994263f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/285fd354-ab0a-427f-a0f3-7780edf588d3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/2a38b58d-3183-4737-8140-124f33c82a68-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/2a67d286-081f-4c4a-94f0-7601be46050e-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/2a9b2cf4-616c-4c7f-8dee-05f73d428baf-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/2cd665cb-5dfb-4012-a236-075d21e10375-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/3287a68e-ad69-4dfe-add5-d033664a91bc-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/3592e6a9-7d44-4ec0-8dec-31ebec2f4c9a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/3912a226-b5ea-4ea5-8554-ddab4c6214a3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/3aa5a5a9-41d5-4980-843e-9d11ca224621-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/3c3424d6-a787-4da8-a39d-479f28aa0d0b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/3d9a8e8d-7d4f-4a47-94bd-635b0f4432aa-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/40794347-fbe0-4aa5-8563-600a2d60d8fb-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/423c1985-3a72-40bb-b09d-6ef03c8f0936-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/45023f17-c35d-486a-8bd5-4c2d342d82f3-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/459c2fc3-f3dc-40f1-af55-d0e48edef60f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/4a81b4d2-6852-4c02-b404-8e7f71be378b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/4a96247a-72a2-407e-a5bd-ef1cb2cec1b7-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/4f5067c2-1588-4575-8545-842803efabc3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/4fdb7347-6a7f-4121-9f08-75799fe90048-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/5246aeaf-34e4-4faa-a2b0-f065e45a2c86-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/547754e7-aa65-4df9-97ee-14fb7b13d1fc-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/55100c4f-bffd-4065-a3e3-019f28b1f9a1-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/563dc127-724b-4605-a646-007f413ca928-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/5c738c3a-25b0-44f8-b79c-adac0bce6301-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/5d026007-b242-43e8-8582-15a42ee24de0-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/5d197132-1f21-4541-becf-631764095f8e-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/5d9dad94-a153-4715-b537-932d821e2091-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/6013f73b-7fb3-45e9-ac5d-a48ac60e33ad-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/6464f285-70d8-4420-85d1-b95088dccb4a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/673f763c-be81-4961-9b0a-245ae51e1acd-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/676b43fe-6c47-4903-8f92-62642f5298bd-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/6904499a-45c1-4408-b094-78788b4d5030-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/6ce5aac4-ca1d-4a44-9a0a-4d658c95dd16-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/6d48ee07-4df8-46a1-96a2-781f7e1cd699-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/7050fe15-d209-46ee-9b48-1c5df67ba31b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/71a32ad9-5c97-434b-8594-edc6b9dc8b08-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/72f69f63-04ae-4b0b-aa2c-3302de65667f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/789c9f2b-e69f-4e3e-ae69-3321bd56027b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/79e65708-923e-49ab-8e38-959e7c638b2f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/7b04b22d-0cf0-4075-bced-6ec69abe1ebd-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/7c67665e-b1ae-49ce-818e-d62cc0a3f61a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/7d0bc5a1-2bca-48cd-bd64-727e597ed5ac-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/7d2b8888-d0c9-4564-bdfe-43dfa78dbe88-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/81c7ac9c-d1c0-411a-aaac-71c4988c2b26-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/84b40455-b085-40fa-8798-5b33e1a7c699-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/870ce9fa-e42e-4d35-88d0-9c8272f49dea-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/882ecf0d-b0ca-416d-83b3-17496fb236ca-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/886fb6a3-d63d-416d-bc9d-1871ed06d712-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/8b0a2e0c-6867-4785-9ade-baf9ab6eb54b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/8d924dcb-9ee8-4785-b05a-dea6d6e3875f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/8ec78ec7-db20-49cb-b60c-95d7985c20b6-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/9113fccb-c36d-44ab-a698-717c87589499-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/92cb9b56-4909-403b-aef6-6e854b6aa321-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/93627278-0b4d-4078-9728-7017e77f0331-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/953ebc70-b8b0-42a1-a5f5-5078914cae07-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/958ee538-a592-4809-8d4b-d76315484df5-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/969f16ba-805e-40cd-8341-d793f1bd62f4-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/9708aaa8-6dce-4aeb-8d28-da49b219d257-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/97b0f977-054e-4d41-a6c3-927385dbc4c1-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/98ba0b3c-f4a1-4a87-9887-52869ce8e7e9-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/998995ee-776a-4a82-83ae-212868a14d96-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/9c967607-fdeb-4441-876e-d977afdf9961-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/a40940ec-d7a9-4500-9114-513cb301de6a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/a68336c5-8ab5-43ad-9211-c61f626c48bf-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/a856923b-2236-445a-9ff8-4ed6d8241d41-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/a95e053c-e455-4904-8ddd-b205d0df4fb2-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/a9692eab-4fa3-4dc4-8224-6cecb005bea3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/ac5d456d-1c0c-4828-a817-b7d6cd0e944f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/ad567a40-5512-42de-8e2e-04a04cbba212-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/ae5d5321-8c5f-47d2-b805-79d2500f8e75-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/aec52f53-9103-4559-80a0-70ba5cb26142-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/b15c1d78-0595-410e-b3eb-c58b41b01fab-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/b52cd0f5-64a2-4ece-a71b-73279dfc1116-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/b6805fc8-1afa-4034-92f3-5b7765824d79-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/b7363a81-519b-4a47-8c60-6b42f223b9f7-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/b7691f8d-d8b4-4d1a-b0b1-f315ef797745-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/b92f141c-b0cf-4b51-b6af-c326e1e9849f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/c53aa839-00a7-4615-99a9-bbb6848cd274-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/c75c7d20-771c-4322-bdbd-cd6724de3baa-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/ca1cfc88-c1b4-452c-b9d7-ab6d1ac0063e-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/ca43137c-d799-4c0a-962c-2312e8f3aa70-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/d133d740-47a9-4c8b-8909-f5659238be96-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/d58ed7e1-b191-4c60-9b2e-5c5cd9cdb06c-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/d708853f-3616-4197-908b-72e3eb1f874a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/df200778-55e2-4a80-8044-4115a4e63039-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/df39f8a4-4359-48f2-b966-2693a71fc711-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/e22493da-1d1e-4a1d-aeba-5daa018a9ff7-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/e4939b1f-eeea-4509-9dfe-4302697395eb-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/e7dbe6c1-b212-4ec1-8312-ecf6772106ef-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/eca00505-9150-4549-98c9-1dfcbb3235df-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/edfe5e6a-7f43-4700-bd77-4be343c522d1-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/efbd2128-4f5e-4911-ae56-b33404a9d427-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/f1021fd1-4aa3-4be7-9a8e-f0f4f49d74f4-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/f1b5a33c-3d36-4995-a7d6-a0b9b54c969a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/f316ef15-baba-4b59-b825-25b04705f6f5-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/f3fb4402-a2a5-4ab8-8745-a6da7b1e6d0a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/f5872820-b422-443b-9cab-e2b33348b50b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/f7d52ef1-fd30-4ca7-b79d-e783f4659e55-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/f8a52e9e-3cb3-4dba-ba78-021a8ba622ce-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/fd7e6d60-c39b-4777-9fba-74ab591e4062-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/fdbfb1e7-977b-4a80-a6e7-33e95aea1f89-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/allure-results/ff23e825-4fe3-4723-a58e-ff1b5862c5e9-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/cucumber-html-report/formatter.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/cucumber-html-report/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/cucumber-html-report/jquery-1.8.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/cucumber-html-report/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/failsafe-reports/TEST-com.example.steps.RunAcceptanceIT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/failsafe-reports/com.example.steps.RunAcceptanceIT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/failsafe-reports/failsafe-summary.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/logback/logback_output-20161122T113400.log" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/logback/logback_output-20161122T114253.log" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/allure-maven-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/00d28c6e-1cf2-4d87-9d7f-9305bc9e117c-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/03996e89-29bd-41c7-b71b-7464fc2f34d4-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/04a045be-e84e-40ec-a10d-cde4ce47eb6a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/050f9925-4687-4e20-917a-8a133dd7f3bc-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/06f4dd7d-de26-45e2-8089-300e967962e3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/07c01024-8a7d-48e1-9504-6f861d07ee22-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/0e9f1784-c7ab-4524-aefa-770ca316086d-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/123f642f-d091-4d67-835e-e097838430e8-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/12b7806e-81a7-4524-ac59-f8c7faaeb8d0-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/15d01a9cd3ea0629-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/1767bcfe-3bc7-4675-9ddf-a6309d0da8e1-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/1820aeb8cb229c2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/18510ca8cc7ddc41-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/1c8ca782-c2c4-43b3-be65-85e6237282cb-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/1d603ec0-8612-4256-b89f-26a64d76b0e3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/23a0413e-2d9e-47cd-8e57-49d25f7c701a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/2653f734-3704-43d6-9db4-07c18994263f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/285fd354-ab0a-427f-a0f3-7780edf588d3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/2a38b58d-3183-4737-8140-124f33c82a68-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/2a9b2cf4-616c-4c7f-8dee-05f73d428baf-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/2cd665cb-5dfb-4012-a236-075d21e10375-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/2deeac69633f5b78-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/3287a68e-ad69-4dfe-add5-d033664a91bc-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/3592e6a9-7d44-4ec0-8dec-31ebec2f4c9a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/382947803b65ab8d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/3912a226-b5ea-4ea5-8554-ddab4c6214a3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/3aa5a5a9-41d5-4980-843e-9d11ca224621-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/3c3424d6-a787-4da8-a39d-479f28aa0d0b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/3d9a8e8d-7d4f-4a47-94bd-635b0f4432aa-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/40794347-fbe0-4aa5-8563-600a2d60d8fb-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/423c1985-3a72-40bb-b09d-6ef03c8f0936-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/43dec77cd2e3fc96-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/459c2fc3-f3dc-40f1-af55-d0e48edef60f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/4a81b4d2-6852-4c02-b404-8e7f71be378b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/4a96247a-72a2-407e-a5bd-ef1cb2cec1b7-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/4b97a9dc583ece92-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/4f5067c2-1588-4575-8545-842803efabc3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/4fdb7347-6a7f-4121-9f08-75799fe90048-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/5246aeaf-34e4-4faa-a2b0-f065e45a2c86-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/547754e7-aa65-4df9-97ee-14fb7b13d1fc-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/55100c4f-bffd-4065-a3e3-019f28b1f9a1-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/55b9cb64260f7226-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/563dc127-724b-4605-a646-007f413ca928-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/57c1e6b288e5cd10-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/5b92e6d638ea5ae0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/5c738c3a-25b0-44f8-b79c-adac0bce6301-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/5d026007-b242-43e8-8582-15a42ee24de0-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/5d197132-1f21-4541-becf-631764095f8e-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/5d9dad94-a153-4715-b537-932d821e2091-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/5f3eab1f6bbc1db7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/6013f73b-7fb3-45e9-ac5d-a48ac60e33ad-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/6464f285-70d8-4420-85d1-b95088dccb4a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/673f763c-be81-4961-9b0a-245ae51e1acd-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/676b43fe-6c47-4903-8f92-62642f5298bd-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/6904499a-45c1-4408-b094-78788b4d5030-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/6ce5aac4-ca1d-4a44-9a0a-4d658c95dd16-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/6d48ee07-4df8-46a1-96a2-781f7e1cd699-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/6dab61bbf20c5b3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/7050fe15-d209-46ee-9b48-1c5df67ba31b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/71a32ad9-5c97-434b-8594-edc6b9dc8b08-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/72f69f63-04ae-4b0b-aa2c-3302de65667f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/768bb1d7047d81ff-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/789c9f2b-e69f-4e3e-ae69-3321bd56027b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/79e65708-923e-49ab-8e38-959e7c638b2f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/7b04b22d-0cf0-4075-bced-6ec69abe1ebd-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/7c67665e-b1ae-49ce-818e-d62cc0a3f61a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/7d0bc5a1-2bca-48cd-bd64-727e597ed5ac-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/7d2b8888-d0c9-4564-bdfe-43dfa78dbe88-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/81c7ac9c-d1c0-411a-aaac-71c4988c2b26-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/84b40455-b085-40fa-8798-5b33e1a7c699-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/870ce9fa-e42e-4d35-88d0-9c8272f49dea-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/882ecf0d-b0ca-416d-83b3-17496fb236ca-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/886fb6a3-d63d-416d-bc9d-1871ed06d712-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/8a6791133b053705-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/8b0a2e0c-6867-4785-9ade-baf9ab6eb54b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/8c29967274a69518-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/8d924dcb-9ee8-4785-b05a-dea6d6e3875f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/8ec78ec7-db20-49cb-b60c-95d7985c20b6-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/9113fccb-c36d-44ab-a698-717c87589499-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/924a2e361f1651fe-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/92cb9b56-4909-403b-aef6-6e854b6aa321-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/93627278-0b4d-4078-9728-7017e77f0331-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/953ebc70-b8b0-42a1-a5f5-5078914cae07-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/958ee538-a592-4809-8d4b-d76315484df5-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/969f16ba-805e-40cd-8341-d793f1bd62f4-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/9708aaa8-6dce-4aeb-8d28-da49b219d257-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/97b0f977-054e-4d41-a6c3-927385dbc4c1-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/98ba0b3c-f4a1-4a87-9887-52869ce8e7e9-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/998995ee-776a-4a82-83ae-212868a14d96-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/9b945e84cd3dd8e6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/9bd076a115251857-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/9c967607-fdeb-4441-876e-d977afdf9961-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/a259767dba66322e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/a40940ec-d7a9-4500-9114-513cb301de6a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/a68336c5-8ab5-43ad-9211-c61f626c48bf-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/a856923b-2236-445a-9ff8-4ed6d8241d41-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/a95e053c-e455-4904-8ddd-b205d0df4fb2-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/a9692eab-4fa3-4dc4-8224-6cecb005bea3-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/ac5d456d-1c0c-4828-a817-b7d6cd0e944f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/ad567a40-5512-42de-8e2e-04a04cbba212-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/adccf191f2b0f6b4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/ae5d5321-8c5f-47d2-b805-79d2500f8e75-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/aec52f53-9103-4559-80a0-70ba5cb26142-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/b15c1d78-0595-410e-b3eb-c58b41b01fab-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/b52cd0f5-64a2-4ece-a71b-73279dfc1116-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/b6805fc8-1afa-4034-92f3-5b7765824d79-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/b7363a81-519b-4a47-8c60-6b42f223b9f7-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/b7691f8d-d8b4-4d1a-b0b1-f315ef797745-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/b92f141c-b0cf-4b51-b6af-c326e1e9849f-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/behaviors.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/c507ae9cb6637a5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/c53aa839-00a7-4615-99a9-bbb6848cd274-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/c75c7d20-771c-4322-bdbd-cd6724de3baa-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/ca1cfc88-c1b4-452c-b9d7-ab6d1ac0063e-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/ca43137c-d799-4c0a-962c-2312e8f3aa70-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/d133d740-47a9-4c8b-8909-f5659238be96-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/d58ed7e1-b191-4c60-9b2e-5c5cd9cdb06c-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/d708853f-3616-4197-908b-72e3eb1f874a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/defects.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/df200778-55e2-4a80-8044-4115a4e63039-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/df39f8a4-4359-48f2-b966-2693a71fc711-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/e22493da-1d1e-4a1d-aeba-5daa018a9ff7-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/e4939b1f-eeea-4509-9dfe-4302697395eb-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/e7dbe6c1-b212-4ec1-8312-ecf6772106ef-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/eca00505-9150-4549-98c9-1dfcbb3235df-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/ecf8ca66e1549d9f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/edfe5e6a-7f43-4700-bd77-4be343c522d1-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/efbd2128-4f5e-4911-ae56-b33404a9d427-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/f1021fd1-4aa3-4be7-9a8e-f0f4f49d74f4-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/f1b5a33c-3d36-4995-a7d6-a0b9b54c969a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/f316ef15-baba-4b59-b825-25b04705f6f5-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/f3fb4402-a2a5-4ab8-8745-a6da7b1e6d0a-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/f5872820-b422-443b-9cab-e2b33348b50b-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/f7d52ef1-fd30-4ca7-b79d-e783f4659e55-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/f8a52e9e-3cb3-4dba-ba78-021a8ba622ce-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/fd7e6d60-c39b-4777-9fba-74ab591e4062-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/fdbfb1e7-977b-4a80-a6e7-33e95aea1f89-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/ff23e825-4fe3-4723-a58e-ff1b5862c5e9-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/graph.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/plugins.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/report.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/timeline.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/total.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/widgets.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/data/xunit.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/flash/clippy.swf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/img/allure-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/img/tests_passed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/charts/charts.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/charts/duration.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/charts/pie.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/charts/severityMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/charts/timeline.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/controllers.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/directives.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/filters.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/overview/widgets.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/pane/pane.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/pluginApi.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/scrollfix/scrollfix.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/services.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/table/table.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/testcase/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/testcase/provider.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/testcase/statusSwitcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/js/testcase/testcase.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/behaviors/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/behaviors/ptbr.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/behaviors/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/behaviors/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/behaviors/tab.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/behaviors/widget.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/defects/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/defects/ptbr.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/defects/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/defects/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/defects/tab.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/defects/widget.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/environment/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/environment/ptbr.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/environment/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/environment/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/graph/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/graph/ptbr.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/graph/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/graph/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/graph/tab.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/timeline/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/timeline/ptbr.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/timeline/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/timeline/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/timeline/tab.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/total/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/xunit/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/xunit/ptbr.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/xunit/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/xunit/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/xunit/tab.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/xunit/testrun.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/xunit/testsuite.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/plugins/xunit/widget.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/overview/keyValue.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/overview/total.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/table/table.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/testcase/attachment.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/testcase/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/testcase/status-switcher.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/testcase/testcase.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/templates/testcase/testcaseView.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/translations/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/translations/ptbr.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/translations/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/vendor/filesize.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/vendor/localstorageprovider.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/vendor/messageformat/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/vendor/messageformat/ptbr.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/vendor/messageformat/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/Sortable/1.2.0/Sortable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/Sortable/1.2.0/ng-sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/angular-loading-bar/0.6.0/loading-bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/angular-translate-interpolation-messageformat/0.1.2/angular-translate-interpolation-messageformat.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/angular-translate-loader-partial/2.6.0/angular-translate-loader-partial.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/angular-translate/2.6.0/angular-translate.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/angular-ui-bootstrap/0.11.2/ui-bootstrap-tpls.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/angular-ui-router/0.2.13/angular-ui-router.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/angularjs/1.2.26/angular-animate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/angularjs/1.2.26/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/d3js/3.4.11/d3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/highlightjs/8.2-1/highlight.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/jquery/2.1.1/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/site/allure-maven-plugin/webjars/messageformat.js/0.1.4/messageformat.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/surefire-reports/TEST-com.example.steps.RunAcceptanceIT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/surefire-reports/com.example.steps.RunAcceptanceIT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/Bag.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/Header.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/ItemInBag.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/Login.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/PageProduct.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/SearchResults.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/steps/RunAcceptanceIT.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/util/WebDriverSingletone.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/.idea/description.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/.idea/project-template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/first2.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/out/production/first2/com/company/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/src/main/java/com/company/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/target/classes/com/company/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/target/first2-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IdeaProjects/first2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/first.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/module1/module1.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/module1/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/out/production/first/yana/main.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/yana/main.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/target/module1-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/cucumber_first_project" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/cucumber_first_project" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/cucumber_project-1.0-SNAPSHOT.jar" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/cucumber_project-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/HomePage.class" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/Page.class" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/Page.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/SearchForm.class" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/pages/SearchForm.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/steps/CommonStepsDef.class" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/steps/CommonStepsDef.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/util/PropertyLoader.class" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/util/PropertyLoader.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/homework" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/homework" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/SampleTestNgTest.class" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/SampleTestNgTest.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/HomePage.class" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/PageProduct.class" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/PageProduct.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/SearchForm.class" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/SearchForm.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/SearchPage.class" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/SearchPage.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/SearchResults.class" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/target/test-classes/com/example/pages/SearchResults.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/cucumber_project.iml" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/cucumber_project.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/pom.xml" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/pom.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/HomePage.java" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/Page.java" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/Page.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/SearchForm.java" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/pages/SearchForm.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/steps/CommonStepsDef.java" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/java/com/example/steps/CommonStepsDef.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/resources/application.properties" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/resources/com/example/steps/scenario_test.feature" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/resources/com/example/steps/scenario_test.feature" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/resources/debug.properties" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/src/test/resources/debug.properties" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/Cucumber.json" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/Cucumber.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/cucumber-html-report/report.js" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/cucumber-html-report/report.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/maven-archiver/pom.properties" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/application.properties" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/application.properties" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/steps/scenario_test.feature" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/com/example/steps/scenario_test.feature" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/debug.properties" afterPath="$USER_HOME$/IdeaProjects/cucumber_project/cucumber_project/target/test-classes/debug.properties" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/.idea/workspace.xml" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/SampleTestNgTest.java" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/SampleTestNgTest.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/HomePage.java" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/PageProduct.java" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/PageProduct.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/SearchForm.java" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/SearchForm.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/SearchPage.java" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/SearchPage.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/SearchResults.java" afterPath="$USER_HOME$/IdeaProjects/qaLabHomework/src/test/java/com/example/pages/SearchResults.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/gold-mine/src/main/java/com/mycompany/app/GoldMine.java" afterPath="$USER_HOME$/gold-mine/src/main/java/com/mycompany/app/GoldMine.java" />
+    </list>
+    <ignored path="Airlines.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.19.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Airlines" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AbstractAerostat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractAerostat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AircraftBuilder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/AircraftBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1176#1177#0" expanded="true" />
+                <element signature="e#1208#1209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarryingDirigible.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/CarryingDirigible.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="271" selection-start-line="17" selection-start-column="271" selection-end-line="17" selection-end-column="271" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractQuadrupter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/AbstractQuadrupter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigQuadrupter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/BigQuadrupter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MidleQuadrupter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/MidleQuadrupter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FreeAerostat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/FreeAerostat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="16" column="247" selection-start-line="16" selection-start-column="247" selection-end-line="16" selection-end-column="247" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PassengerDirigible.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/PassengerDirigible.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractDirigible.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractDirigible.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PassengerAirplane.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/PassengerAirplane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/Flyable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/PetrolAircrafts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/Airline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/AbstractAirplane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/CompositionInsideShell.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/AirlinesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/AbstractQuadrupter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/AbstractHelicopter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/AbstractAerostat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/AbstractPetrolAircrafts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/petrolAircrafts/AbstractAirplane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/petrolAircrafts/AbstractHelicopter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/petrolAircrafts/batteryAircrafts/AbstractQuadrupter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/petrolAircrafts/AbstractPetrolAircrafts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractPetrolAircrafts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/Destination.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractHelicopter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/RecordVideoable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/Passengersable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/RecordVideoable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/Dirigible.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/Passengersable.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/checkStyle.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughOfPassengersCapacityException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughResourcesException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughMemoryForRecordingException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughResourcesForFlyingException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotCorrecCharacteristicsOfAircraftException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/CarryingAirplane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/Helicopter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/PassengerAirplane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/CarryingDirigible.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/FreeAerostat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractAirplane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractFuelAircrafts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractDirigible.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/util/AircraftBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/AbstractQuadrupter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/BigQuadrupter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/MidleQuadrupter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/PassengerDirigible.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractAerostat.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="464" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="791" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aircrafts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aircrafts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gasAircrfats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aircrafts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fuelAircrafts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aircrafts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="batteryAircrafts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.epam.airlines.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AirlinesTest.test">
+    <configuration default="false" name="AirlinesTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Airlines" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AirlinesTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Airlines" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AirlinesTest.test" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AirlinesTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddcf113a-4148-44fa-92e3-5ff21358375a" name="Default" comment="" />
+      <created>1529832782533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529832782533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AirlinesTest_test - 2018.06.24 at 14h 58m 15s.xml">
+      <configuration name="AirlinesTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="464" y="23" width="1440" height="791" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32547864" sideWeight="0.5114449" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10801145" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268945" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49713877" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21396731" sideWeight="0.48855507" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32986626" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29470673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32547864" sideWeight="0.5114449" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10801145" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268945" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49713877" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268945" sideWeight="0.48855507" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29470673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractFuelAircrafts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/AbstractQuadrupter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1146#1147#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractAerostat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughResourcesForFlyingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/Destination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/checkStyle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/Airline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/Flyable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractFuelAircrafts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/AbstractQuadrupter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1146#1147#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractAerostat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughResourcesForFlyingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/Destination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/checkStyle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/Airline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/Flyable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractFuelAircrafts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/AbstractQuadrupter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1146#1147#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractAerostat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughResourcesForFlyingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/Destination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AirlinesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/Destination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/Airline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/CompositionInsideShell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/RecordVideoable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/Passengersable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/Flyable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/checkStyle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2314">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughMemoryForRecordingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughOfPassengersCapacityException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughResourcesException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotEnoughResourcesForFlyingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/NotCorrecCharacteristicsOfAircraftException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractAirplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/AbstractFuelAircrafts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="30" column="31" selection-start-line="14" selection-start-column="3" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/CarryingAirplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/Helicopter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/fuelAircrafts/PassengerAirplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractDirigible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/FreeAerostat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="247" selection-start-line="16" selection-start-column="247" selection-end-line="16" selection-end-column="247" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/AbstractQuadrupter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/BigQuadrupter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/batteryAircrafts/MidleQuadrupter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/CarryingDirigible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="271" selection-start-line="17" selection-start-column="271" selection-end-line="17" selection-end-column="271" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/PassengerDirigible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/aircrafts/gasAircrfats/AbstractAerostat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/airlines/util/AircraftBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Airlines</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.projectlombok:lombok:1.16.20</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
